@@ -10,11 +10,10 @@ Taking advantage of the fact that I have to do a graphic project in an education
 For this project there were some restrictions: it had to be written in C and use a simple graphic library <a name="https://github.com/codam-coding-college/MLX42">MLX42</a>.
 Here are some of the images obtained with the program:
 
-<img src="images/frac1.png" width="200">
-<img src="images/frac2.png" width="200">
-<img src="images/frac3.png" width="200">
-<img src="images/frac4.png" width="200">
-<img src="images/frac5.png" width="200">
+<img src="images/comb1.png" width="200">
+<img src="images/comb2.png" width="200">
+<img src="images/animac.gif" width="200">
+
 ## Table of contents
 1. [Project](#project)
 2. [Installation](#installation)
