@@ -12,7 +12,7 @@ Here are some of the images obtained with the program:
 
 <img src="images/comb1.png" width="600">
 <img src="images/comb2.png" width="600">
-<img src="images/animac.gif" width="800">
+<img src="images/animac.gif" width="400">
 
 ## Table of contents
 1. [Project](#project)
