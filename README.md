@@ -1,10 +1,15 @@
 # Fractal
 According to the dictionary definition, a fractal is a geometric object in which the same structure, fragmented or apparently irregular, is repeated at different scales and sizes.
+
 The use of computers to explore these objects is both helpful and fascinating. We can zoom in almost indefinitely, entering what resembles an infinite universe, where colors and shapes make us want to keep exploring more and more.
+
 As a mathematician I have always been attracted to fractals, and it was something I knew that sooner or later I would end up exploring for myself.
+
 Taking advantage of the fact that I have to do a graphic project in an educational assignment I am involved in, I decided to outline some fractals.
+
 For this project there were some restrictions: it had to be written in C and use a simple graphic library <a name="https://github.com/codam-coding-college/MLX42">MLX42</a>.
 Here are some of the images obtained with the program:
+
 <img src="images/frac1.png" width="200">
 <img src="images/frac2.png" width="200">
 <img src="images/frac3.png" width="200">
