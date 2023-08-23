@@ -20,7 +20,8 @@ Here are some of the images obtained with the program:
 3. [Usage](#usage)
 
 ## Project <a name="project"></a>
-The Goal of this project is to build a program that can draw some fractals. The chosen fractals are Julia, Mandel and Burning Ship. All of them are "time scape" fractals, this is, for every point, time of scape is computed, and then translated into a color.
+The Goal of this project is to build a program that can draw some fractals. The chosen fractals are Julia, Mandel and Burning Ship. All of them are "time scape" fractals, this is, for every point, time of scape is computed, and then translated into a color.  
+You can read an article explaining the implementation in this <a name="https://medium.com/@pingwie/fractals-dbada76c7071">post</a> on medium.
 
 ## Installation <a name="installation"></a>
 - Clone the repo.
