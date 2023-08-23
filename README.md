@@ -7,7 +7,7 @@ As a mathematician I have always been attracted to fractals, and it was somethin
 
 Taking advantage of the fact that I have to do a graphic project in an educational assignment I am involved in, I decided to outline some fractals.
 
-For this project there were some restrictions: it had to be written in C and use a simple graphic library <a name="https://github.com/codam-coding-college/MLX42">MLX42</a>.
+For this project there were some restrictions: it had to be written in C and use a simple graphic library [MLX42](https://github.com/codam-coding-college/MLX42).
 Here are some of the images obtained with the program:
 
 <img src="images/comb1.png" width="600">
@@ -21,7 +21,7 @@ Here are some of the images obtained with the program:
 
 ## Project <a name="project"></a>
 The Goal of this project is to build a program that can draw some fractals. The chosen fractals are Julia, Mandel and Burning Ship. All of them are "time scape" fractals, this is, for every point, time of scape is computed, and then translated into a color.  
-You can read an article explaining the implementation in this <a name="https://medium.com/@pingwie/fractals-dbada76c7071">post</a> on medium.
+You can read an article explaining the implementation in this [post](https://medium.com/@pingwie/fractals-dbada76c7071) on medium.
 
 ## Installation <a name="installation"></a>
 - Clone the repo.
